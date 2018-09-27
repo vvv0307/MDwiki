@@ -1,4 +1,4 @@
-快速开始          
+第一页          
 ===========
 
 Note: Welcome to zht Wiki
