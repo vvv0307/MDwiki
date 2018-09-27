@@ -11,7 +11,7 @@ hello world
 hello world
 ```
 
-其他
+Welcome to zht Wiki
 ----
 
 ```
