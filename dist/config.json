@@ -1,0 +1,7 @@
+{
+    "useSideMenu": true,
+    "title": "vvwiki",
+    "lineBreaks": "gfm",
+    "additionalFooterText": "ALL content and images by zht | ",
+    "anchorCharacter": "#"
+}
