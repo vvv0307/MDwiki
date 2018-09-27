@@ -1,7 +1,7 @@
 快速开始          
 ===========
 
-Note: MDwiki
+Note: Welcome to zht Wiki
 
 
 hello world
@@ -11,7 +11,7 @@ hello world
 hello world
 ```
 
-Welcome to zht Wiki
+other
 ----
 
 ```
