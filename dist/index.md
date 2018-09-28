@@ -15,5 +15,5 @@ other
 ----
 
 ```
-nginx部署
+nginx部署 test1
 ```
