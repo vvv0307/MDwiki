@@ -1,9 +1,9 @@
 linux
 =====
+<br>
 
-<br>
-<br>
 Note: linux相关知识整理
+
 <br>
 
 ### <center>[linux](linuxwiki/linux.md)</center>
