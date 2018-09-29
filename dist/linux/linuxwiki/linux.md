@@ -14,9 +14,8 @@ linux命令
 cat > xxx
 ```
 将终端输入到文件中<br><br>
-* _wc_
-----------
 
+* _wc_
     * 语法 <br>
          wc(选项)(参数)
     * 选项<br>
@@ -25,8 +24,6 @@ cat > xxx
         -w或——words：只显示字数。<br>
 
 *  _tr_
-
-
     * 语法 <br>
           tr  (option) source-char-list replace-char-list
     * 用途 <br>
