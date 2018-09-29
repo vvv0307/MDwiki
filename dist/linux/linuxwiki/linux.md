@@ -8,14 +8,14 @@ Note: Linux
 linux命令
 --------------
 
-* _cat_
+# _cat_
 
 ```
 cat > xxx
 ```
 将终端输入到文件中<br><br>
 
-* _wc_
+# _wc_
     * 语法 <br>
          wc(选项)(参数)
     * 选项<br>
@@ -23,7 +23,7 @@ cat > xxx
         -l或——lines：只显示列数；<br>
         -w或——words：只显示字数。<br>
 
-*  _tr_
+#  _tr_
     * 语法 <br>
           tr  (option) source-char-list replace-char-list
     * 用途 <br>
@@ -33,6 +33,7 @@ cat > xxx
           -C  类似-c。处理宽字符，而不是二进制字节值
           -d  自标准输入删除source-char-list中所有字符
           -s  重复的字符变为一个
+
 
   敬请期待
   -------------
