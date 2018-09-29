@@ -4,13 +4,13 @@
 
 [菜单]()
 
-  * [算法](algorithm_index.md)
+  * [算法](algorithm/algorithm_index.md)
    - - - -
-  * [java](java_index.md)
+  * [java](java/java_index.md)
    - - - -
-  * [linux](linux_index.md)
-   - - - - 
-  * [other](other_index.md)
+  * [linux](linux/linux_index.md)
+   - - - -
+  * [other](other/other_index.md)
 
 
 
