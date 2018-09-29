@@ -8,14 +8,13 @@ Note: Linux
 linux命令
 --------------
 
-__cat__
--------------
+* _cat_
 
 ```
 cat > xxx
 ```
 将终端输入到文件中<br><br>
-__wc__
+* _wc_
 ----------
 
     * 语法 <br>
@@ -25,8 +24,8 @@ __wc__
         -l或——lines：只显示列数；<br>
         -w或——words：只显示字数。<br>
 
- _tr_
- -------
+*  _tr_
+
 
     * 语法 <br>
           tr  (option) source-char-list replace-char-list
