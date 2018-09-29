@@ -20,3 +20,6 @@ cat > xxx
         -c或--bytes或——chars：只显示Bytes数；<br>
         -l或——lines：只显示列数；<br>
         -w或——words：只显示字数。<br>
+
+shell
+-------
