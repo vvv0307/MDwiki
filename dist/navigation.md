@@ -1,4 +1,4 @@
-# vMywiki
+# zht wiki
 
 [首页](index.md)
 
